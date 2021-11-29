@@ -1,0 +1,129 @@
+.background {
+  min-height: 100%;
+  min-width: 1024px;
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.welcomeText{
+    font-size: xx-large;
+  
+    position: fixed; 
+    top: 10%;
+    left: 35%;
+
+}
+
+.game{
+    min-height: 100%;
+    min-width: 800px;
+    height: auto;
+    position: fixed; 
+    top: 0;
+    left: 22%;
+    background-color: darkcyan;
+}
+
+  .gameBox{
+    height: 307px;
+    width: 307px;  
+    position: fixed; 
+    top: 35%;
+    left: 40%;
+    /* background-color: red; */
+   
+  }
+  .rowOne{
+    display: flex;
+
+  }
+.square {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+  
+    border: 1px solid black;
+   
+}
+/* .squareTwo {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    
+    border: 1px solid black;
+}
+.squareThree {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    
+    border: 1px solid black;
+} */
+.rowTwo{
+    display: flex;
+  }
+/* 
+.squareFour {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+   
+    border: 1px solid black;
+}
+.squareFive {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+ 
+    border: 1px solid black;
+}
+.squareSix {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+   
+    border: 1px solid black;
+} */
+.rowThree{
+    display: flex;
+  }
+
+  /* .squareSeven {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+  
+    border: 1px solid black;
+}
+.squareEight {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+   
+    border: 1px solid black;
+}
+.squareNine {
+    height: 100px;
+    width: 100px;
+    background-color:white;
+    
+    border: 1px solid black;
+} */
+
+.icon{
+    height: 100px;
+    width: 100px;
+
+}
+.newGame{
+    /* background-color: blueviolet; */
+    position: fixed; 
+    top: 80%;
+    left: 47%;
+    height: 50px;
+    width: 100px;
+    border-radius:15px;
+}
