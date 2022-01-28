@@ -1,7 +1,8 @@
 **General**
 
 This is a hobbyproject with the classic game tictactoe. It is a pure frontend-project without
-any server, the purpose was to practice basics of webdevelopment without any external frameworks. Two players areplaying against each other on the same computer, the game is started by clicing on a square.
+any server, the purpose was to practice basics of webdevelopment without any external frameworks. Two players are 
+playing against each other on the same computer, the game is started by clicking on a square.
 
 **Tools**
 
